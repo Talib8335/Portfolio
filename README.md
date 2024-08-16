@@ -34,9 +34,3 @@
 
 View the live portfolio here: [Mohammad Talib Portfolio](https://talib8335.github.io/)
 
-## Not sure where to start?  <a id="wheretostart"></a>
-
-#### Step 1:
-
-Download or clone this repository by using the command given below:
-
