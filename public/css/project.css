@@ -92,27 +92,27 @@
   background-color: rgba(78, 186, 191, 0.8);
 }
 
-.html-badge {
+.html-badge,.typescript-badge ,.php-badge{
   background-color: rgba(231, 80, 40, 0.8);
 }
 
-.html-badge:hover {
+.html-badge,.typescript-badge,.php-badge:hover {
   background-color: rgba(231, 80, 40, 1);
 }
 
-.css-badge {
+.css-badge,.docker-badge {
   background-color: rgba(42, 147, 201, 0.8);
 }
 
-.css-badge:hover {
+.css-badge,.docker-badge:hover {
   background-color: rgba(42, 147, 201, 1);
 }
 
-.bootstrap-badge {
+.bootstrap-badge,.redis-badge {
   background-color: rgba(121, 82, 179, 0.8);
 }
 
-.bootstrap-badge:hover {
+.bootstrap-badge,.redis-badge:hover {
   background-color: rgba(121, 82, 179, 1);
 }
 
@@ -132,11 +132,11 @@
   background-color: rgba(88, 151, 189, 1);
 }
 
-.nodejs-badge {
+.nodejs-badge,.mysql-badge {
   background-color: rgba(135, 201, 41, 0.8);
 }
 
-.nodejs-badge:hover {
+.nodejs-badge,.mysql-badge:hover {
   background-color: rgba(135, 201, 41, 1);
 }
 
@@ -148,11 +148,11 @@
   background-color: rgba(33, 37, 41, 1);
 }
 
-.hbs-badge {
+.hbs-badge,.ajax-badge {
   background-color: rgba(240, 119, 43, 0.8);
 }
 
-.hbs-badge:hover {
+.hbs-badge,.ajax-badge:hover {
   background-color: rgba(240, 119, 43, 1);
 }
 
@@ -204,20 +204,20 @@
   background-color:rgba(0, 0, 0, 1);
 }
 
-.nodemon-badge{
+.nodemon-badge,.antd-badge{
   background-color: rgba(45, 165, 221, 0.315);
 }
 
-.nodemon-badge:hover {
+.nodemon-badge,.antd-badge:hover {
   background-color: rgba(45, 165, 221, 1);
 }
 
 
-.tailwindcss-badge {
+.tailwindcss-badge, .react-badge,.sql-badge {
   background-color: rgba(178, 253, 127, 0.384);
 }
 
-.tailwindcss-badge:hover {
+.tailwindcss-badge,.react-badge,.sql-badge:hover {
   background-color: rgba(178, 253, 127, 1);
 }
 
